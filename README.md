@@ -8,13 +8,15 @@
 В get_roots из модуля quadratic_equation.py передается 3 параметра - (a,b,c) - аргументы квадртаного уравнения. Ответ возвращается в результате функции get_roots в виде tuple со значениями корней уравнения.
 
 пример:
-```from quadratic_equation import get_roots
+```
+from quadratic_equation import get_roots
 
 root1, root2 = get_roots(1, 2, -3)
 ```
 
 результат в виде:
-```(1,-3)
+```
+(1,-3)
 ```
 
 
