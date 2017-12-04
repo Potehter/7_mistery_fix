@@ -10,10 +10,12 @@
 пример:
 ```from quadratic_equation import get_roots
 
-root1, root2 = get_roots(1, 2, -3)```
+root1, root2 = get_roots(1, 2, -3)
+```
 
 результат в виде:
-```(1,-3)```
+```(1,-3)
+```
 
 
 # Как запустить
